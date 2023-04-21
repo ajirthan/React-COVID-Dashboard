@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-COVID-Dashboard/static/css/main.e256006a.css",
+    "main.js": "/React-COVID-Dashboard/static/js/main.3f4b5dbb.js",
+    "static/js/787.69d26829.chunk.js": "/React-COVID-Dashboard/static/js/787.69d26829.chunk.js",
+    "index.html": "/React-COVID-Dashboard/index.html",
+    "main.e256006a.css.map": "/React-COVID-Dashboard/static/css/main.e256006a.css.map",
+    "main.3f4b5dbb.js.map": "/React-COVID-Dashboard/static/js/main.3f4b5dbb.js.map",
+    "787.69d26829.chunk.js.map": "/React-COVID-Dashboard/static/js/787.69d26829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e256006a.css",
+    "static/js/main.3f4b5dbb.js"
+  ]
+}
